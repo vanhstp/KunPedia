@@ -11,8 +11,14 @@ module.exports = {
         sidebar: {
             '/nba/': [
                 {
-                    title: '介绍',
+                    title: '篮球事件',
                     path: '/nba/',
+                    collapsable: false,
+                    children: [
+                        { title: "背景", path: "/nba/背景.md" },
+                        { title: "律师函", path: "/nba/律师函.md" },
+
+                    ]
                 },
                 {
                     title: '相关视频',
@@ -32,7 +38,6 @@ module.exports = {
                 text: '关于', link: '/about/',
                 items: [
                     { text: 'Repo', link: 'https://github.com/vanhstp/KunPedia' },
-                    { text: '掘金', link: 'https://juejin.cn/user/712139234359182/posts' }
                 ]
             }
         ]
