@@ -1,6 +1,6 @@
 module.exports = {
     title: '坤坤小百科',
-    description: 'TypeScript4 最新官方文档翻译',
+    description: '带你更了解我们可爱的小坤坤',
     base: '/KunPedia/',
     locales: {
         '/': {
@@ -20,7 +20,7 @@ module.exports = {
                 }
             ]
         },
-        logo: 'https://tse1-mm.cn.bing.net/th/id/R-C.3fedd4f6b3f53603f6434cf0232bb425?rik=Vf8voEUlfLXANQ&riu=http%3a%2f%2fwx3.sinaimg.cn%2flarge%2f006APoFYly1g2s11fpvx1j30h00hsq8p.jpg&ehk=HNvYw%2f8Viqn0yN1AenqpIjnETHsb1ApAVMMgIQTkDbM%3d&risl=&pid=ImgRaw&r=0',
+        logo: '/images/KunPedia-02.png',
         nav: [
             { text: '首页', link: '/' },
             { text: '快速了解', link: '/guide/' },
