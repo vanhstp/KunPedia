@@ -1,3 +1,17 @@
+---
+home: true
+heroImage: https://pic.baike.soso.com/ugc/baikepic2/0/ori-20211220161532-315310479_png_559_715_651289.jpg/800
+heroText: 蔡徐坤
+tagline: KUN
+features:
+- title: 出生
+  details: 1998年8月2日出生于浙江省温州市，籍贯湖南吉首。
+- title: Q2 那只鸡在哪？
+  details: 请查阅“篮球事件”。
+- title: Q3 JetBrains 又出新IDE了？
+  details: 并没有，本百科的logo的设计风格高度参照了JetBrains IDE 图标。
+---
+
 ![蔡徐坤](https://pic.baike.soso.com/ugc/baikepic2/0/ori-20211220161532-315310479_png_559_715_651289.jpg/800)
 # 简介
 蔡徐坤（KUN，Cai Xukun），1998年8月2日出生于浙江省温州市，籍贯湖南吉首，中国内地男歌手、原创音乐制作人、MV导演、演员。

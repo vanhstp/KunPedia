@@ -6,7 +6,7 @@ tagline: 带你更了解我们可爱的小坤坤
 actionText: 快速了解 →
 actionLink: /guide/
 features:
-- title: Q1 为什么是“坤坤小百科 (KunPedia)”？
+- title: Q1 为什么叫“坤坤小百科 (KunPedia)”？
   details: 因为“坤坤”是所有了解蔡徐坤的人对他的爱称，本百科因此得名。
 - title: Q2 那只鸡在哪？
   details: 请查阅“篮球事件”。

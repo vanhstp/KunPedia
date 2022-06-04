@@ -1,5 +1,6 @@
 {
   "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.9.7",
     "gh-pages": "^4.0.0",
     "vuepress": "^1.9.7"
   },
