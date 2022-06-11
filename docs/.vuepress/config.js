@@ -34,12 +34,8 @@ module.exports = {
             { text: 'iKun', link: '/ikun/' },
             { text: '篮球事件', link: '/nba/' },
             { text: '作品', link: '/works/' },
-            { 
-                text: '关于', link: '/about/',
-                items: [
-                    { text: 'Repo', link: 'https://github.com/vanhstp/KunPedia' },
-                ]
-            }
+            { text: '关于', link: '/about/' },
+            { text: 'GitHub', link: 'https://github.com/vanhstp/KunPedia' },
         ]
     },
     plugins: ['@vuepress/back-to-top']
