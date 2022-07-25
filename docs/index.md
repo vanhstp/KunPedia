@@ -22,6 +22,5 @@ features:
   details: 请查阅“篮球事件”。
 - title: Q3 JetBrains 又出新IDE了？
   details: 并没有，本百科的logo的设计风格高度参照了JetBrains IDE 图标。
-footer: by vanhstp v0.0.2
 
 ---

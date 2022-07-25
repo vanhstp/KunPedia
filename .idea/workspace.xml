@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3acc1c54-a713-434d-842f-5c7254f6c4ac" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/styles/index.styl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/styles/palette.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/about/contributor.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vitepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vitepress/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vitepress/config1.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vitepress/config1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/works_music_solo_README.md.b4c8292c.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/works_music_solo_README.md.b4c8292c.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/works_music_solo_README.md.b4c8292c.lean.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/works_music_solo_README.md.b4c8292c.lean.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/works/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/works/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/works/music/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/works/music/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/works/music/solo/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/works/music/solo/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/works/music/solo/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/works/music/solo/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,19 +31,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/vanhstp/Documents/TinyPedia/KunPedia/docs/.vitepress",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "watcher.settings",
-    "ts.external.directory.path": "/Users/vanhstp/Library/Application Support/JetBrains/Toolbox/apps/WebStorm/ch-0/221.6008.13/WebStorm.app/Contents/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/vanhstp/Documents/TinyPedia/KunPedia/docs/.vitepress&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/vanhstp/Library/Application Support/JetBrains/Toolbox/apps/WebStorm/ch-0/221.6008.13/WebStorm.app/Contents/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/docs/.vitepress" />
@@ -58,7 +52,7 @@
       <recent name="$PROJECT_DIR$/docs/.vitepress/public" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.docs:build">
+  <component name="RunManager" selected="npm.docs:dev">
     <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -120,7 +114,12 @@
       <workItem from="1658715624807" duration="43000" />
       <workItem from="1658724257981" duration="70000" />
       <workItem from="1658731543144" duration="633000" />
-      <workItem from="1658733160141" duration="11643000" />
+      <workItem from="1658733160141" duration="12243000" />
+      <workItem from="1658746910120" duration="48000" />
+      <workItem from="1658750464839" duration="1028000" />
+      <workItem from="1658751662311" duration="19000" />
+      <workItem from="1658751990685" duration="26000" />
+      <workItem from="1658760982341" duration="1033000" />
     </task>
     <servers />
   </component>

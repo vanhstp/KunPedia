@@ -12,7 +12,7 @@ export default {
         logo: 'https://raw.githubusercontent.com/vanhstp/KunPedia/master/docs/.vitepress/public/KunPedia-02.png',
         footer: {
             message: 'v0.0.2 (2022.7.25)',
-            copyright: 'TinyPedia by vanhstp'
+            copyright: 'TinyPedia by vanhstp ｜ Powered by VitePress'
         },
         nav: [
             { text: '首页', link: '/' },
@@ -26,7 +26,15 @@ export default {
                     { text: '音乐', link: '/works/music/' },
                 ],
             },
-            { text: '关于', link: '/about/' },
+            {
+                text: '关于',
+                items: [
+                    { text: '关于', link: '/about/' },
+                    { text: '贡献者', link: '/about/contributor.md' },
+                    { text: '其他小百科', link: 'https://vanhstp.github.io/TinyPedia/' },
+
+                ],
+            },
         ],
         socialLinks: [
             { icon: 'github', link: 'https://github.com/vanhstp/KunPedia' },
