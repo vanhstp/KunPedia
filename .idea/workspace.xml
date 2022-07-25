@@ -2,78 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3acc1c54-a713-434d-842f-5c7254f6c4ac" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/config1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/about_index.md.345cb44a.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/about_index.md.345cb44a.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/app.58b46846.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/guide_index.md.7754e845.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/guide_index.md.7754e845.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/ikun_index.md.98f25dd1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/ikun_index.md.98f25dd1.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/index.md.23e05909.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/index.md.23e05909.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/life_index.md.539db2d4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/life_index.md.539db2d4.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/nba_index.md.823e8f9f.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/nba_index.md.823e8f9f.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/nba_video.md.e5bfb781.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/nba_video.md.e5bfb781.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/nba_律师函.md.9058e631.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/nba_律师函.md.9058e631.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/nba_背景.md.d9bb638b.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/nba_背景.md.d9bb638b.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/works_index.md.8f85b046.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/works_index.md.8f85b046.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/works_music_index.md.2cdc228d.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/works_music_index.md.2cdc228d.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/works_music_solo_Lover.md.8e888c5e.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/works_music_solo_Lover.md.8e888c5e.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/works_music_solo_README.md.40ff3c5e.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/works_music_solo_README.md.40ff3c5e.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/hashmap.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/nba/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/nba/video.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/nba/律师函.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/nba/背景.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/works/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/works/music/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/works/music/solo/Lover.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/works/music/solo/README.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/styles/index.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/styles/palette.styl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vitepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vitepress/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vitepress/dist/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vitepress/dist/about/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/about_index.md.0f7659df.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/about_index.md.0f7659df.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/app.0e9dbfd1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/guide_index.md.9fbb1158.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/guide_index.md.9fbb1158.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/ikun_index.md.de44f0a1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/ikun_index.md.de44f0a1.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/index.md.3994b12e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/index.md.3994b12e.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/life_index.md.e3ca0b1f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/life_index.md.e3ca0b1f.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/nba_index.md.06f8ec81.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/nba_index.md.06f8ec81.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/nba_video.md.7eefe5f6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/nba_video.md.7eefe5f6.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/nba_律师函.md.482f0cf5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/nba_律师函.md.482f0cf5.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/nba_背景.md.a222387b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/nba_背景.md.a222387b.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/works_index.md.56dc0fb1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/works_index.md.56dc0fb1.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/works_music_index.md.e502feaf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/works_music_index.md.e502feaf.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/works_music_solo_Lover.md.f670a6d7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/works_music_solo_Lover.md.f670a6d7.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/works_music_solo_README.md.bf163481.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/works_music_solo_README.md.bf163481.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/guide/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vitepress/dist/guide/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/ikun/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vitepress/dist/ikun/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vitepress/dist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/life/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vitepress/dist/life/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/config1.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vitepress/config1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/works_music_solo_README.md.b4c8292c.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/works_music_solo_README.md.b4c8292c.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/works_music_solo_README.md.b4c8292c.lean.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/works_music_solo_README.md.b4c8292c.lean.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/works/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/works/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/works/music/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/works/music/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/works/music/solo/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/works/music/solo/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +45,8 @@
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/Users/vanhstp/Documents/TinyPedia/KunPedia/docs/.vitepress",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "settings.nodejs",
+    "settings.editor.selected.configurable": "watcher.settings",
+    "ts.external.directory.path": "/Users/vanhstp/Library/Application Support/JetBrains/Toolbox/apps/WebStorm/ch-0/221.6008.13/WebStorm.app/Contents/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -161,9 +101,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.docs:dev" />
         <item itemvalue="npm.docs:build" />
         <item itemvalue="npm.docs:serve" />
-        <item itemvalue="npm.docs:dev" />
         <item itemvalue="npm.dev" />
       </list>
     </recent_temporary>
@@ -180,7 +120,7 @@
       <workItem from="1658715624807" duration="43000" />
       <workItem from="1658724257981" duration="70000" />
       <workItem from="1658731543144" duration="633000" />
-      <workItem from="1658733160141" duration="5444000" />
+      <workItem from="1658733160141" duration="11643000" />
     </task>
     <servers />
   </component>

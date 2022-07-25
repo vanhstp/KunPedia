@@ -1,3 +1,4 @@
+//backup
 export default {
 
     title: '坤坤小百科',
@@ -22,7 +23,6 @@ export default {
                     items: [
                         { text: '背景', link: '/nba/背景.md' },
                         { text: '律师函', link: '/nba/律师函.md' },
-
                     ],
                 },
                 {
@@ -34,10 +34,6 @@ export default {
                 {
                     text: '个人',
                     path: '/works/music/solo/',
-                },
-                {
-                    text: '相关视频',
-                    link: '/nba/video'
                 },
             ],
         },

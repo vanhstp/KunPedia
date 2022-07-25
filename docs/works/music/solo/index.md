@@ -39,3 +39,6 @@ Home - 单曲
 8. 欲
 9. haha
 10. nobody cares
+# 2022
+## 7.22
+Hug me - 单曲

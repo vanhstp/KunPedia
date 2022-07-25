@@ -4,14 +4,16 @@ layout: home
 hero:
   name: 坤坤小百科
   text: 带你更了解我们可爱的小坤坤
-  tagline: Lorem ipsum...
+  tagline: v0.0.2版本
   image:
-    src: /images/KunPedia-01.png
+    src: 'https://raw.githubusercontent.com/vanhstp/KunPedia/master/docs/.vitepress/public/KunPedia-01.png'
     alt: 坤坤小百科
   actions:
   - theme: brand
     text: 快速了解 →
     link: /guide/
+
+
 
 features:
 - title: Q1 为什么叫“坤坤小百科 (KunPedia)”？

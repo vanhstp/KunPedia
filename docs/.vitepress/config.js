@@ -1,5 +1,4 @@
 export default {
-
     title: '坤坤小百科',
     description: '带你更了解我们可爱的小坤坤',
     base: '/KunPedia/',
@@ -10,10 +9,10 @@ export default {
       },
     themeConfig: {
         siteTitle: '坤坤小百科',
-        logo: '/KunPedia-02.png',
+        logo: 'https://raw.githubusercontent.com/vanhstp/KunPedia/master/docs/.vitepress/public/KunPedia-02.png',
         footer: {
-            message: 'v0.0.2',
-            copyright: 'Copyright © 2022-present vanhstp'
+            message: 'v0.0.2 (2022.7.25)',
+            copyright: 'TinyPedia by vanhstp'
         },
         nav: [
             { text: '首页', link: '/' },
@@ -28,7 +27,35 @@ export default {
                 ],
             },
             { text: '关于', link: '/about/' },
-            { text: 'GitHub', link: 'https://github.com/vanhstp/KunPedia' },
         ],
+        socialLinks: [
+            { icon: 'github', link: 'https://github.com/vanhstp/KunPedia' },
+        ],
+        sidebar: {
+            '/nba/': [
+                {
+                    text: '篮球事件',
+                    items: [
+                        { text: '背景', link: '/nba/背景.md' },
+                        { text: '律师函', link: '/nba/律师函.md' },
+                    ]
+                },
+                {
+                    text: '相关视频',
+                    items: [
+                        { text: '偶像练习生', link: '/nba/video.md' },
+                    ],
+                },
+            ],
+            '/works/music/': [
+                {
+                    text: '音乐作品',
+                    items: [
+                        { text: '最新发布', link: '/works/music/' },
+                        { text: '个人', link: '/works/music/solo/' },
+                    ],
+                },
+            ],
+        }
     },
 }
