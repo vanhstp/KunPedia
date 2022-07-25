@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3acc1c54-a713-434d-842f-5c7254f6c4ac" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/KunPedia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/about/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/about_index.md.0f7659df.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/about_index.md.0f7659df.lean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/app.0e9dbfd1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/guide_index.md.9fbb1158.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/guide_index.md.9fbb1158.lean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/ikun_index.md.de44f0a1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/ikun_index.md.de44f0a1.lean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/index.md.3994b12e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/index.md.3994b12e.lean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/inter-cyrillic-ext.0877b0d9.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/inter-cyrillic.f8750142.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/inter-greek-ext.3e6f6728.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/inter-greek.117e1956.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/inter-italic-cyrillic-ext.33bd5a8e.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/inter-italic-cyrillic.ea42a392.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/inter-italic-greek-ext.4fbe9427.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/inter-italic-greek.8f4463c4.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/inter-italic-latin-ext.bd8920cc.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/inter-italic-latin.bd3b6f56.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/inter-italic-vietnamese.6ce511fb.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/inter-latin-ext.7cc429bc.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/inter-latin.4fe6132f.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/inter-roman-cyrillic-ext.e75737ce.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/inter-roman-cyrillic.5f2c6c8c.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/inter-roman-greek-ext.ab0619bc.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/inter-roman-greek.d5a6d92a.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/inter-roman-latin-ext.0030eebd.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/inter-roman-latin.2ed14f66.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/inter-roman-vietnamese.14ce25a6.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/inter-vietnamese.2c644a25.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/life_index.md.e3ca0b1f.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/life_index.md.e3ca0b1f.lean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/nba_index.md.06f8ec81.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/nba_index.md.06f8ec81.lean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/nba_video.md.7eefe5f6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/nba_video.md.7eefe5f6.lean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/nba_律师函.md.482f0cf5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/nba_律师函.md.482f0cf5.lean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/nba_背景.md.a222387b.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/nba_背景.md.a222387b.lean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/style.617523af.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/works_index.md.56dc0fb1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/works_index.md.56dc0fb1.lean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/works_music_index.md.e502feaf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/works_music_index.md.e502feaf.lean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/works_music_solo_Lover.md.f670a6d7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/works_music_solo_Lover.md.f670a6d7.lean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/works_music_solo_README.md.bf163481.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/works_music_solo_README.md.bf163481.lean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/guide/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/ikun/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/dist/life/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ikun/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/life/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/works/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/works/music/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/works/music/solo/Lover.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/works/music/solo/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/deploy.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vitepress/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/images/KunPedia-01.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vitepress/public/KunPedia-01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/images/KunPedia-02.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vitepress/public/KunPedia-02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/styles/palette.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/about/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/deploy.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/guide/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/guide/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/nba/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/nba/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/nba/video.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/nba/video.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/nba/律师函.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/nba/律师函.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/works/Lover.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/works/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/docs/.vitepress/config.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/package.json" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CARDKv2ZApwXRt3gRX6ioyg2SC" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.nodejs",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/.vitepress/public" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.docs:build">
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="docs:build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="docs:build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="docs:dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="docs:dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="docs:serve" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="docs:serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.docs:build" />
+        <item itemvalue="npm.docs:serve" />
+        <item itemvalue="npm.docs:dev" />
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="3acc1c54-a713-434d-842f-5c7254f6c4ac" name="变更" comment="" />
+      <created>1658243282342</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658243282342</updated>
+      <workItem from="1658243284918" duration="66000" />
+      <workItem from="1658715624807" duration="43000" />
+      <workItem from="1658724257981" duration="70000" />
+      <workItem from="1658731543144" duration="633000" />
+      <workItem from="1658733160141" duration="4758000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
