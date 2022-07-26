@@ -1,4 +1,5 @@
 ---
+
 layout: home
 
 hero:
@@ -13,8 +14,6 @@ hero:
     text: 快速了解 →
     link: /guide/
 
-
-
 features:
 - title: Q1 为什么叫“坤坤小百科 (KunPedia)”？
   details: 因为“坤坤”是所有了解蔡徐坤的人对他的爱称，本百科因此得名。
@@ -24,3 +23,9 @@ features:
   details: 并没有，本百科的logo的设计风格高度参照了JetBrains IDE 图标。
 
 ---
+<style>
+:root {
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #ace838, #4edff2);
+}
+</style>
