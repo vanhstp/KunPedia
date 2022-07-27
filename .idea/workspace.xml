@@ -2,9 +2,83 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3acc1c54-a713-434d-842f-5c7254f6c4ac" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/styles/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/guide/account.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/guide/music.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/guide/studio.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/kun.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vitepress/styles/index.styl" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vitepress/styles/index.styl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vitepress/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/about/contributor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/about/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/about_contributor.md.7b6d994d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/about_contributor.md.7b6d994d.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/about_index.md.694f5694.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/about_index.md.694f5694.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/app.b23f880c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/guide_index.md.30a2622e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/guide_index.md.30a2622e.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/ikun_index.md.3ebba07c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/ikun_index.md.3ebba07c.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/index.md.5b53d14a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/index.md.5b53d14a.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/inter-cyrillic-ext.0877b0d9.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/inter-cyrillic.f8750142.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/inter-greek-ext.3e6f6728.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/inter-greek.117e1956.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/inter-italic-cyrillic-ext.33bd5a8e.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/inter-italic-cyrillic.ea42a392.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/inter-italic-greek-ext.4fbe9427.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/inter-italic-greek.8f4463c4.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/inter-italic-latin-ext.bd8920cc.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/inter-italic-latin.bd3b6f56.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/inter-italic-vietnamese.6ce511fb.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/inter-latin-ext.7cc429bc.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/inter-latin.4fe6132f.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/inter-roman-cyrillic-ext.e75737ce.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/inter-roman-cyrillic.5f2c6c8c.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/inter-roman-greek-ext.ab0619bc.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/inter-roman-greek.d5a6d92a.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/inter-roman-latin-ext.0030eebd.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/inter-roman-latin.2ed14f66.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/inter-roman-vietnamese.14ce25a6.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/inter-vietnamese.2c644a25.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/life_index.md.63db7e27.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/life_index.md.63db7e27.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/nba_index.md.3720fe23.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/nba_index.md.3720fe23.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/nba_video.md.5c60ccca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/nba_video.md.5c60ccca.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/nba_律师函.md.b336f420.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/nba_律师函.md.b336f420.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/nba_背景.md.d2a99c30.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/nba_背景.md.d2a99c30.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/style.788b9b10.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/works_index.md.af32c2f1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/works_index.md.af32c2f1.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/works_music_index.md.6284a59d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/works_music_index.md.6284a59d.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/works_music_solo_Lover.md.d3d37d7d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/works_music_solo_Lover.md.d3d37d7d.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/works_music_solo_index.md.367b21b7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/works_music_solo_index.md.367b21b7.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/guide/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/hashmap.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/ikun/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/life/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/nba/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/nba/video.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/nba/律师函.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/nba/背景.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/works/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/works/music/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/works/music/solo/Lover.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/works/music/solo/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/guide/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/guide/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/works/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/works/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/works/music/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/works/music/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +125,7 @@
       <recent name="$PROJECT_DIR$/docs/.vitepress" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs" />
       <recent name="$PROJECT_DIR$/docs/.vitepress/public" />
     </key>
   </component>
@@ -123,11 +198,24 @@
       <workItem from="1658751990685" duration="26000" />
       <workItem from="1658760982341" duration="13349000" />
       <workItem from="1658818650865" duration="159000" />
+      <workItem from="1658884358209" duration="114000" />
+      <workItem from="1658884478768" duration="14220000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />

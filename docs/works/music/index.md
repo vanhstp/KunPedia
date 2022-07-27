@@ -10,8 +10,11 @@ hero:
   alt: Hug Me
   actions:
    - theme: brand
-     text: 立即收听
+     text: 网易云音乐
      link: 'https://music.163.com/#/song?id=1965890511'
+   - theme: brand
+     text: QQ音乐
+     link: 'https://y.qq.com/n/ryqq/songDetail/368304013'
    - theme: alt
      text: 其他作品
      link: '/works/music/solo/'
@@ -55,3 +58,10 @@ const members = [
 <VPTeamMembers size="medium" :members="members" />
 
 
+
+<style>
+:root {
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #fc0503, #ffa1a1);
+}
+</style>

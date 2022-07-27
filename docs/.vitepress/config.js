@@ -44,6 +44,7 @@ export default {
                 {
                     text: '篮球事件',
                     items: [
+                        { text: '简介', link: '/nba/' },
                         { text: '背景', link: '/nba/背景.md' },
                         { text: '律师函', link: '/nba/律师函.md' },
                     ]
@@ -63,6 +64,16 @@ export default {
                         { text: '个人', link: '/works/music/solo/' },
                     ],
                 },
+            ],
+            '/guide/': [
+                {
+                    items: [
+                        { text: '个人账号', link: '/guide/account' },
+                        { text: '工作室帐号', link: '/guide/studio' },
+                        { text: '音乐主页', link: '/guide/music' },
+
+                    ]
+                }
             ],
         }
     },

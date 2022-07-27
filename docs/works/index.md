@@ -19,3 +19,9 @@ features:
   footer: by vanhstp v0.0.2
 
 ---
+<style>
+:root {
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #ace838, #4edff2);
+}
+</style>
