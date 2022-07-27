@@ -62,6 +62,7 @@ const members = [
 <style>
 :root {
   --vp-home-hero-name-color: transparent;
-  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #fc0503, #ffa1a1);
+  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #ace838, #4edff2);
 }
 </style>
+
