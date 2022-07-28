@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./app.39bd4a13.js";const d=JSON.parse('{"title":"\u9E21\u4F60\u592A\u7F8E","description":"","frontmatter":{"title":"\u9E21\u4F60\u592A\u7F8E"},"headers":[],"relativePath":"nba/meme_jntm.md"}'),n={name:"nba/meme_jntm.md"};function r(m,o,s,c,_,p){return t(),a("div")}var f=e(n,[["render",r]]);export{d as __pageData,f as default};
