@@ -1,3 +1,7 @@
+---
+title: 偶像练习生
+---
+
 # 节目原版
 
 <iframe src="//player.bilibili.com/player.html?aid=50183113&bvid=BV1Pb411G7ME&cid=87845846&page=1" scrolling="yes" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>

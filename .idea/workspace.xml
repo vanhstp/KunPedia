@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3acc1c54-a713-434d-842f-5c7254f6c4ac" name="变更" comment="">
-      <change beforePath="$PROJECT_DIR$/docs/works/music/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/works/music/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/nba/meme_jntm.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vitepress/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/guide/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/guide/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/kun.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/guide/kun.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/nba/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/nba/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/nba/video.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/nba/video_Idol_Producer.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/nba/律师函.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/nba/律师函.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/nba/背景.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/nba/背景.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/works/music/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/music/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/works/music/solo/Lover.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/music/solo_Lover.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/works/music/solo/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/music/solo.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +61,9 @@
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/docs" />
+      <recent name="$PROJECT_DIR$/docs/works/music" />
+      <recent name="$PROJECT_DIR$/docs/nba" />
+      <recent name="$PROJECT_DIR$/docs/guide" />
       <recent name="$PROJECT_DIR$/docs/.vitepress/public" />
     </key>
   </component>
@@ -123,7 +137,8 @@
       <workItem from="1658760982341" duration="13349000" />
       <workItem from="1658818650865" duration="159000" />
       <workItem from="1658884358209" duration="114000" />
-      <workItem from="1658884478768" duration="14655000" />
+      <workItem from="1658884478768" duration="15254000" />
+      <workItem from="1658975517482" duration="6622000" />
     </task>
     <servers />
   </component>

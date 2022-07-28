@@ -16,14 +16,18 @@ export default {
         },
         nav: [
             { text: '首页', link: '/' },
-            { text: '快速了解', link: '/guide/' },
+            { text: '快速了解', link: '/guide/', activeMatch: '/guide/' },
             { text: '经历', link: '/life/' },
             { text: 'iKun', link: '/ikun/' },
-            { text: '篮球事件和梗', link: '/nba/' },
+            { text: '篮球事件和梗', link: '/nba/', activeMatch: '/nba/' },
             {
                 text: '作品',
                 items: [
-                    { text: '音乐', link: '/works/music/' },
+                    {
+                        text: '音乐',
+                        link: '/music/',
+                        activeMatch: '/music/',
+                    },
                 ],
             },
             {
@@ -50,28 +54,47 @@ export default {
                     ]
                 },
                 {
+                    text: '相关梗',
+                    items: [
+                        { text: '鸡你太美', link: '/nba/meme_jntm.md' },
+                    ],
+                },
+                {
                     text: '相关视频',
                     items: [
-                        { text: '偶像练习生', link: '/nba/video.md' },
+                        { text: '偶像练习生', link: '/nba/video_Idol_Producer.md' },
                     ],
                 },
             ],
-            '/works/music/': [
+            '/music/': [
                 {
-                    text: '音乐作品',
+                    text: '音乐',
                     items: [
-                        { text: '最新发布', link: '/works/music/' },
-                        { text: '个人', link: '/works/music/solo/' },
+                        { text: '最新发布', link: '/music/' },
+                    ],
+                },
+                {
+                    text: '个人',
+                    items: [
+                        { text: '总览', link: '/music/solo' },
+                        { text: '情人', link: '/music/solo_Lover' },
                     ],
                 },
             ],
             '/guide/': [
                 {
+                    text: '蔡徐坤',
+                    items: [
+                        { text: '快速了解', link: '/guide/' },
+                        { text: '简介', link: '/guide/kun' },
+                    ]
+                },
+                {
+                    text: '帐号',
                     items: [
                         { text: '个人账号', link: '/guide/account' },
                         { text: '工作室帐号', link: '/guide/studio' },
                         { text: '音乐主页', link: '/guide/music' },
-
                     ]
                 }
             ],

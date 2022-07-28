@@ -17,7 +17,7 @@ hero:
      link: 'https://y.qq.com/n/ryqq/songDetail/368304013'
    - theme: alt
      text: 其他作品
-     link: '/works/music/solo/'
+     link: '/music/solo'
 
 
 ---
